@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-genpark-voyager",
+  "version": "1.0.0",
+  "description": "Autonomous multi-modal travel itinerary optimizer evaluating carbon intensity, cost efficiency, and scheduling transit",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["voyager", "travel-itinerary", "carbon-offset", "route-optimizer", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
